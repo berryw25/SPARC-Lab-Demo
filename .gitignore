@@ -1,6 +1,6 @@
-# ==========================================
-# 1. CORE R & RSTUDIO CONTROLS (From gitignore.io)
-# ==========================================
+# ============================
+# 1. CORE R & RSTUDIO CONTROLS
+# ============================
 .Rhistory
 .Rapp.history
 .RData
@@ -17,19 +17,19 @@
 *.knit.md
 .Renviron
 
-# ==========================================
-# 2. OPERATING SYSTEM TRASH (Mac & Windows)
-# ==========================================
+# =========================
+# 2. OPERATING SYSTEM TRASH
+# =========================
 .DS_Store
 .AppleDouble
 .LSOverride
 Thumbs.db
 ehthumbs.db
 
-# ==========================================
-# 3. PSYCHOLOGY RESEARCH DATA PROTECTION 
-# ==========================================
-# Strictly prevents accidental leaks of participant data
+# ======================================
+# 3. PSYCHOLOGY RESEARCH DATA PROTECTION
+# ======================================
+# Prevents accidental leaks of identifiable participant data
 *.csv
 *.xlsx
 *.xls
@@ -37,10 +37,10 @@ ehthumbs.db
 *.dta
 *.rds
 
-# ==========================================
+# =================================
 # 4. MANUSCRIPT & OUTPUT GENERATION
-# ==========================================
-# Keeps final compiled papers out of the code repo
+# =================================
+# Keeps final papers out of the code repo
 *.html
 *.pdf
 *.docx
