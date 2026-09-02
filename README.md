@@ -12,7 +12,7 @@ For projects in progress, the guidelines around what a README includes is more l
 
 Finished projects are more specific as to what a README should include. Usually, you can find a list of necessary things to include online. 
 
-===================================================================================================
+======================================================================================================
 
 There are two main ways you can use a GitHub repository - through the GitHub website and the GitHub desktop application. You use these in different ways.
 Using it through the website is simpler, but it can lead to more issues, so I'd suggest only using the application when possible. The website version serves as the primary source for the project. The application allows you to make local changes. Git is a version-control system that tracks changes to files. GitHub is built around Git to make collaboration, storage, and project management easier. A repository is a project folder whose history is tracked by Git.
