@@ -36,6 +36,6 @@ General workflow on GitHub:
 Clone --> edit R script or document --> commit changes --> push them to GitHub --> potentially deal with pull requests depending on who is managing the repository
 
 Other important things to know:
-1. When making a commit, it will ask you to include a description of what the commit is. Please make sure this description is actuall descriptive (it helps others know what you actually did).
+1. When making a commit, it will ask you to include a description of what the commit is. Please make sure this description is actually descriptive (it helps others know what you actually did).
 2. Be careful with what you're uploading to GitHub. We likely will only be using private repositories, but you still don't want to upload any identifiable data.
 3. .gitignore explains what files GitHub will not track (not super important to know how that works)
