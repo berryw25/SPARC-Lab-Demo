@@ -19,7 +19,7 @@ Using it through the website is simpler, but it can lead to more issues, so I'd 
 
 GitHub tab descriptions:
 1. Branches are diversions from the original branch of the project. They contain the same information as the main branch, but any commits you make to the new one are isolated in that branch.
-2. Issues can generally be used as a brainstorming area. This tab probably won't be particularly useful for us. It is mainly helpful for large, public repositories that have a high potential for bugs or needed changes over time for usability.
+2. Issues can generally be used as a brainstorming area. This tab probably won't be particularly useful for us, because we largely work in the same area. It can be useful when collaborating with people from different universities, though.
 3. Pull requests primarily concern potential branches. If someone finishes work on a branch and wants the rest of the members in the repository to use it, they can make a pull request.
 4. You can manage who has access to private repositories through the settings --> accessibility tab.
 
