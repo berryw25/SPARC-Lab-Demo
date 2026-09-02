@@ -15,14 +15,13 @@ Finished projects are more specific as to what a README should include. Usually,
 ===================================================================================================
 
 There are two main ways you can use a GitHub repository - through the GitHub website and the GitHub desktop application. You use these in different ways.
-Using it through the website is simpler, but it can lead to more issues, so I'd suggest only using the application when possible. The website version serves as the primary source for the project. The application allows you to make local changes.
+Using it through the website is simpler, but it can lead to more issues, so I'd suggest only using the application when possible. The website version serves as the primary source for the project. The application allows you to make local changes. Git is a version-control system that tracks changes to files. GitHub is built around Git to make collaboration, storage, and project management easier. A repository is a project folder whose history is tracked by Git.
 
 GitHub tab descriptions:
-1. Git is a version-control system that tracks changes to files. GitHub is built around Git to make collaboration, storage, and project management easier. A repository is a project folder whose history is tracked by Git.
-2. Branches are diversions from the original branch of the project. They contain the same information as the main branch, but any commits you make to the new one are isolated in that branch.
-3. Issues can generally be used as a brainstorming area. This tab probably won't be particularly useful for us. It is mainly helpful for large, public repositories that have a high potential for bugs or needed changes over time for usability.
-4. Pull requests primarily concern potential branches. If someone finishes work on a branch and wants the rest of the members in the repository to use it, they can make a pull request.
-5. You can manage who has access to private repositories through the settings --> accessibility tab.
+1. Branches are diversions from the original branch of the project. They contain the same information as the main branch, but any commits you make to the new one are isolated in that branch.
+2. Issues can generally be used as a brainstorming area. This tab probably won't be particularly useful for us. It is mainly helpful for large, public repositories that have a high potential for bugs or needed changes over time for usability.
+3. Pull requests primarily concern potential branches. If someone finishes work on a branch and wants the rest of the members in the repository to use it, they can make a pull request.
+4. You can manage who has access to private repositories through the settings --> accessibility tab.
 
 GitHub basic terms:
 1. Clone - download a GitHub repository onto your computer (downloads it in its current state and will not update if someone pushes a new commit)
