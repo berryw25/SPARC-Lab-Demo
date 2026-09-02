@@ -1,49 +1,46 @@
-# History files
+# ==========================================
+# 1. CORE R & RSTUDIO CONTROLS (From gitignore.io)
+# ==========================================
 .Rhistory
 .Rapp.history
-
-# Session Data files
 .RData
 .RDataTmp
-
-# User-specific files
 .Ruserdata
-
-# Example code in package build process
-*-Ex.R
-
-# Output files from R CMD build
-/*.tar.gz
-
-# Output files from R CMD check
-/*.Rcheck/
-
-# RStudio files
 .Rproj.user/
-
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
-
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
 .httr-oauth
-
-# knitr and R markdown default cache directories
 *_cache/
 /cache/
-
-# Temporary files created by R markdown
 *.utf8.md
 *.knit.md
-
-# R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
+# ==========================================
+# 2. OPERATING SYSTEM TRASH (Mac & Windows)
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
 
-# translation temp files
-po/*~
+# ==========================================
+# 3. PSYCHOLOGY RESEARCH DATA PROTECTION 
+# ==========================================
+# Strictly prevents accidental leaks of participant data
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.dta
+*.rds
 
-# RStudio Connect folder
-rsconnect/
+# ==========================================
+# 4. MANUSCRIPT & OUTPUT GENERATION
+# ==========================================
+# Keeps final compiled papers out of the code repo
+*.html
+*.pdf
+*.docx
